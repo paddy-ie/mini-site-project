@@ -1,3 +1,3 @@
 # Mini website project
 
-Made with using Bootstrap.
+Made using Bootstrap.
